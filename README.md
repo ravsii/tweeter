@@ -16,6 +16,12 @@ _The code is awful tho_ (no refactoring is planned)
 - [News page](#news-page)
 - [Profile page](#profile-page)
 
+## Tech Stack
+
+Frontend: Svelte + TS + Routify
+
+Backend: Java + Spring (Requirement), Mongo
+
 ## Some screenshots
 
 ### Main page
